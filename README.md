@@ -1,3 +1,4 @@
+![Banner](./images/banner.jpeg)
 # ¡Bienvenido al Awesome WayLearn Repositories!
 Este es el punto de encuentro del talento Web3 en Latinoamérica. Somos wayLearn, una comunidad de aprendizaje y desarrollo Web3 apasionada por construir el futuro descentralizado.
 
