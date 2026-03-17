@@ -5,11 +5,32 @@ Este es el punto de encuentro del talento Web3 en Latinoamérica. Somos wayLearn
 En este repositorio encontrarás una colección de proyectos creados por miembros de la comunidad, demostrando sus habilidades en diferentes protocolos y ecosistemas blockchain. Explora el código, inspírate con las soluciones y descubre el potencial de los builders latinos en la nueva web.
 
 ## Indice
+- [Rust + Anchor](#rust+anchor)
 - [Move](#move)
 - [Aptos](#aptos)
 - [Azle](#azle)
 - [Motoko](#motoko)
 ---
+![Banner Solana](./images/SolanaBanner.jpg)
+
+## Rust + Anchor
+| Nombre del Proyecto | Descripción | Enlace al Repositorio |
+|---------------------|-------------|-----------------------|
+| The discipline Stake | Plataforma enfocada en disciplina y staking dentro del ecosistema. | https://github.com/fiedri/The_discipline_stake |
+| Gimnasio-Solana | Aplicación relacionada con gestión de gimnasio usando Solana. | https://github.com/NixonVaultCode/Gimnasio-Solana |
+| Trust-Work-Escrow | Sistema de escrow para trabajos basado en confianza. | https://github.com/davidcoachdev/Trust-Work-Escrow |
+| AnimeChain-Solana | Proyecto enfocado en anime dentro de blockchain Solana. | https://github.com/YhonaPeguero/AnimeChain-Solana |
+| Uma Solana | Proyecto basado en Solana con funcionalidades específicas de UMA. | https://github.com/Hyromy/Uma-Solana |
+| Boxchain | Plataforma relacionada con blockchain para gestión de datos o servicios. | https://github.com/JDaniel85/Box_Chain |
+| INFRAESTRUCTURA PUBLICA DIGITAL PARA EL ECOSISTEMA | Proyecto enfocado en infraestructura pública digital dentro del ecosistema blockchain. | https://github.com/MemoLabPRO/sol-car-p2p-ontario |
+| MediPin World | Plataforma relacionada con salud o registros médicos en blockchain. | https://github.com/cosu123/medpin-world |
+| pit_lane | Proyecto relacionado con gestión o simulación en contexto automotriz/deportivo. | https://github.com/omancillav/pit_lane.git |
+| Mi-Proyecto-Solana | Proyecto general de desarrollo sobre Solana. | https://github.com/bowsak/Mi-Proyecto-Solana/tree/main |
+| solana-chat | Aplicación de chat construida sobre Solana. | https://github.com/augustofavrearg/solana-chat |
+
+**[⬆ Volver al Indice](#indice)**
+
+--- 
 
 ![Banner](./images/banner.jpg)
 
